@@ -1,2 +1,3 @@
 # AirCnC
-Projeto desenvolvido junto com a equipe da RocketSeat na semana Omnistack9. Utilizando a linguagem Javascript na aplicação inteira, com NodeJS no backend, ReactJS no frontend e React-Native na versão mobile.
+Projeto Utilizando a linguagem Javascript na aplicação inteira, com NodeJS no backend, ReactJS no frontend e React-Native na versão mobile.
+Aircnc é utilizado para a inscrição de empresas com spots disponíveis para desenvolvedores, com a funcionalidade para realizarem reservas em tempo real.
